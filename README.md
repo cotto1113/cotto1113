@@ -1,7 +1,22 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub
+
+#### About me  
+Cotto1113  
+広島大学 医学部 医学科 3年 B246238  
+Department of Medicine, Hiroshima University School of Medicine  
+Medliss engineer 
+  ⁡
+
+#### Contact
+Discord:Cotto_jp  
+Mail:b246238@hiroshima-u.ac.jp  
+
+#### Organization
+https://github.com/Medliss-share  
+https://github.com/Hiroshima-KASUMI-Tech  
 
 <p align="left">
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/cotto1113">
     <img height="20" src="https://komarev.com/ghpvc/?username=cotto1113" />
   </a>
   <a href="https://github.com/Keichan15">
@@ -9,12 +24,9 @@
   </a>
 </p>
 
-## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cotto1113&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cotto1113&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cotto1113&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cotto1113&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cotto1113&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=cotto1113&theme=gruvbox)
