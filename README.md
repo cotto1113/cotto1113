@@ -25,8 +25,4 @@ Mail:b246238@hiroshima-u.ac.jp
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cotto1113&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cotto1113&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cotto1113&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cotto1113&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cotto1113&theme=gruvbox&utcOffset=9)
 
