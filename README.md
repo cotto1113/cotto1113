@@ -12,14 +12,14 @@ Discord:Cotto_jp
 Mail:b246238@hiroshima-u.ac.jp  
 
 #### Organization
-https://github.com/Medliss-share  
-https://github.com/Hiroshima-KASUMI-Tech  
+[<img width="50" height="200" alt="image" src="https://github.com/user-attachments/assets/efe85a6e-0a41-48fe-92fd-90eed066c69e" />](https://github.com/Medliss-share)
+[<img width="50" height="420" alt="image" src="https://github.com/user-attachments/assets/899ad2ee-5f72-493f-b402-d5b62dd0875a" />](https://github.com/Hiroshima-KASUMI-Tech)
 
 <p align="left">
   <a href="https://github.com/cotto1113">
     <img height="20" src="https://komarev.com/ghpvc/?username=cotto1113" />
   </a>
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/cotto1113">
     <img height="20" src="https://img.shields.io/github/followers/cotto1113?label=follow&logo=github&style=flat" />
   </a>
 </p>
