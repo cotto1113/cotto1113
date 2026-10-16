@@ -13,7 +13,7 @@ Mail:b246238@hiroshima-u.ac.jp
 
 #### Organization
 [<img width="50" height="200" alt="image" src="https://github.com/user-attachments/assets/efe85a6e-0a41-48fe-92fd-90eed066c69e" />](https://github.com/Medliss-share)
-[<img width="50" height="420" alt="image" src="https://github.com/user-attachments/assets/899ad2ee-5f72-493f-b402-d5b62dd0875a" />](https://github.com/Hiroshima-KASUMI-Tech)
+[<img width="50" height="200" alt="image" src="https://github.com/user-attachments/assets/899ad2ee-5f72-493f-b402-d5b62dd0875a" />](https://github.com/Hiroshima-KASUMI-Tech)
 
 <p align="left">
   <a href="https://github.com/cotto1113">
